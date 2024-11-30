@@ -18,6 +18,6 @@
 - **Example:** 
   - การอัปโหลดไฟล์ผิดรูปแบบ:
     - **Incorrect Input:** อัปโหลดไฟล์ `.exe` ในช่องที่กำหนดให้อัปโหลดไฟล์รูปภาพเท่านั้น
-
-### My buddy
-- [Gene](https://xxxxx.gihub.io/negative-testing)
+## Members
+- [6530200797 Valid Namvilai](https://9Jell.gihub.io/negative-testing)
+- [6530200843 Saharat Onnom](https://saharat4444.gihub.io/negative-testing)
