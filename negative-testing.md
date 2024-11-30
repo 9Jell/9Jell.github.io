@@ -18,3 +18,6 @@
 - **Example:** 
   - การอัปโหลดไฟล์ผิดรูปแบบ:
     - **Incorrect Input:** อัปโหลดไฟล์ `.exe` ในช่องที่กำหนดให้อัปโหลดไฟล์รูปภาพเท่านั้น
+
+### My buddy
+- [Gene](https://xxxxx.gihub.io/negative-testing)
