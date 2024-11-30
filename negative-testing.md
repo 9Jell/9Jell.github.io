@@ -22,5 +22,5 @@
 ---
       
 ## Members
-- [6530200797 Valid Namvilai]
+- 6530200797 Valid Namvilai
 - [6530200843 Saharat Onnom](https://6530200843.github.io/negative-testing)
