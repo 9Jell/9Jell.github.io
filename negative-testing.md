@@ -22,5 +22,5 @@
 ---
       
 ## Members
-- [6530200797 Valid Namvilai](https://9Jell.gihub.io/negative-testing)
-- [6530200843 Saharat Onnom](https://saharat4444.gihub.io/negative-testing)
+- [6530200797 Valid Namvilai](https://9Jell.github.io/negative-testing)
+- [6530200843 Saharat Onnom](https://6530200843.github.io/negative-testing)
