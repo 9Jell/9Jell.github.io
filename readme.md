@@ -4,5 +4,5 @@
 - รหัสนิสิต : 6530200797
 
 <p align="center">
-  <img src="P001.jpg" width="500" height="600" alt="student">
+  <img src="P001.jpg" width="500" height="625" alt="student">
 </p>
