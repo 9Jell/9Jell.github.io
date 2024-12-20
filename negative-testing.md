@@ -2,7 +2,7 @@
 
 ### 1. [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary#n)
 - **Definition:** This ensures the application can gracefully handle invalid input or unexpected user behavior.
-- **Translation (ChatGPT):** "สิ่งนี้ช่วยให้นแอปพลิเคชันสามารถจัดการกับข้อมูลที่ไม่ถูกต้องหรือพฤติกรรมของผู้ใช้ที่ไม่คาดคิดได้อย่างราบรื่น"
+- **Translation (ChatGPT):** "สิ่งนี้ช่วยให้แอปพลิเคชันสามารถจัดการกับข้อมูลที่ไม่ถูกต้องหรือพฤติกรรมของผู้ใช้ที่ไม่คาดคิดได้อย่างราบรื่น"
 - **Translation (Gemini):** "เพื่อให้มั่นใจว่าแอปพลิเคชันสามารถจัดการกับอินพุตที่ไม่ถูกต้องหรือพฤติกรรมที่ไม่คาดคิดของผู้ใช้ได้อย่างราบรื่น"
 
 ### 2. [BrowserStack Guide on Negative Testing](https://www.browserstack.com/guide/negative-testing)
@@ -14,7 +14,7 @@
 
 ## Negative Testing in my opinion
 
-- **Objective:** ทดสอบซอฟต์แวร์เพื่อให้แน่ใจว่าข้อมูลผิดพลาดหรืออินพุตแปลกแยกสามารถปฏิเสธได้อย่างมีประสิทธิภาพ
+- **Objective:** ทดสอบซอฟต์แวร์เพื่อจัดการกับข้อมูลหรืออินพุตที่ไม่ถูกต้อง
 - **Example:** 
   - การอัปโหลดไฟล์ผิดรูปแบบ:
     - **Incorrect Input:** อัปโหลดไฟล์ `.exe` ในช่องที่กำหนดให้อัปโหลดไฟล์รูปภาพเท่านั้น
