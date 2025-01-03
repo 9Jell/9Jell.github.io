@@ -1,4 +1,4 @@
-# ** Currency **
+#  Currency 
 Definition by [ESTUARY](https://estuary.dev/data-quality/)
 
 ### **Currency:**
