@@ -23,4 +23,4 @@ Definition by [ESTUARY](https://estuary.dev/data-quality/)
 ระบบบัญชีแสดงสถานะว่าใบแจ้งหนี้ของลูกค้ารายหนึ่งยังคงค้างชำระ แต่ลูกค้าได้ชำระเงินเรียบร้อยแล้ว หากข้อมูลไม่ได้อัปเดต อาจทำให้ลูกค้าได้รับการแจ้งเตือนผิดพลาดและเกิดความไม่พอใจ
 
 # My Profile
-[NiJell](https://nibkekie.github.io/)
+[NiJell](https://9Jell.github.io/)
